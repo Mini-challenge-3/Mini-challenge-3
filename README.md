@@ -18,10 +18,10 @@
 
 ---
 
-- **이름**: 
-- **학번**: 
-- **이메일**: 
-- **GitHub 프로필**: 
+- **이름**: 우승현
+- **학번**: 20251263
+- **이메일**: bd0525@dongyang.ac.kr
+- **GitHub 프로필**: [useunghyeon](https://github.com/useunghyeon)
 
 ---
 
