@@ -4,7 +4,7 @@
 
 ## 😎 팀원 소개
 
-- **이름**: 이종복
+- **이름**: 이종복!
 - **학번**: 20241480
 - **이메일**: whdqhr31@dongyang.ac.kr
 - **GitHub 프로필**: [JONGBOK1](https://github.com/JONGBOK1)
