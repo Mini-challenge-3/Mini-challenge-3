@@ -4,33 +4,10 @@
 
 ## 😎 팀원 소개
 
-- **이름**: 이종복
-- **학번**: 20241480
-- **이메일**: whdqhr31@dongyang.ac.kr
-- **GitHub 프로필**: [JONGBOK1](https://github.com/JONGBOK1)
-
----
-
-- **이름**: 장여정
-- **학번**: 20241513
-- **이메일**: yeojeong735@gmail.com
-- **GitHub 프로필**: [yeojeong735](https://github.com/yeojeong735)
-
----
-
-- **이름**: 우승현
-- **학번**: 20251263
-- **이메일**: bd0525@dongyang.ac.kr
-- **GitHub 프로필**: [useunghyeon](https://github.com/useunghyeon)
-
----
-
-- **이름**: 김주현
-- **학번**: 20251289
-- **이메일**: dmu211@dongyang.ac.kr
-- **GitHub 프로필**: [ididi0](https://github.com/ididi0)
-
-
-
+| 장여정 | 김종복 | 김주현 | 우승현 |
+|:---:|:---:|:---:| :---:|
+|20241513|20241480|20251289|20251263|
+|[@yeojeong735](https://github.com/yeojeong735)|[@JONGBOK1](https://github.com/JONGBOK1)|[@ididi0](https://github.com/ididi0)|[@useunghyeon](https://github.com/useunghyeon)|
+|yeojeong735@gmail.com|whdqhr31@dongyang.ac.kr|dmu211@dongyang.ac.kr|bd0525@dongyang.ac.kr|
 
 
