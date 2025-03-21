@@ -10,5 +10,3 @@
 |[@yeojeong735](https://github.com/yeojeong735)|[@JONGBOK1](https://github.com/JONGBOK1)|[@ididi0](https://github.com/ididi0)|[@useunghyeon](https://github.com/useunghyeon)|
 |yeojeong735@gmail.com|whdqhr31@dongyang.ac.kr|dmu211@dongyang.ac.kr|bd0525@dongyang.ac.kr|
 
-## 📊 GitHub Stats
-![Mini-challenge-3's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-org&show_icons=true&theme=radical)
